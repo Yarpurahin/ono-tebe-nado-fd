@@ -314,7 +314,7 @@
   align-items: start;
   height: 180px;
   margin-top: 180px;
-  padding: 0 50px; 
+  padding: 0 50px;
 }
 
 .footer-address {
@@ -328,7 +328,7 @@
   flex-direction: column;
   justify-self: center;
   align-items: center;
-  list-style-type: none; 
+  list-style-type: none;
   text-underline-offset: 4px;
   padding-top: 2px;
   gap: 4px;
