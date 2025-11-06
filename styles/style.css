@@ -302,7 +302,7 @@
   grid-template-columns: repeat(3, 1fr);
   align-items: start;
   margin-top: 180px;
-  padding: 0 50px;
+  padding: 0 50px 82px;
 }
 
 .footer-address {
